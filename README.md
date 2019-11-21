@@ -1,7 +1,7 @@
 Aplikasi Manajemen Karyawan Sederhana
 Di buat dengan Netbean IDE 8.2
 
-Screenshot : 
+ 
 ![login](https://user-images.githubusercontent.com/35683696/69318463-d0ab1e80-0c6f-11ea-84b2-cd5b6f38ecdc.png)
 ![menu_admin](https://user-images.githubusercontent.com/35683696/69318503-de60a400-0c6f-11ea-886d-5a612da61f91.png)
 ![menu_user](https://user-images.githubusercontent.com/35683696/69318537-ed475680-0c6f-11ea-8981-e75c73be579b.png)
