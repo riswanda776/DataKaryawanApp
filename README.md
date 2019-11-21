@@ -21,14 +21,14 @@ Fitur :
 
 Cara menggunakan
 Aktifkan XAMPP
-Buat database di localhost dengan nama db_karyawan kemudian import db_karyawan.sql
-Kemudian buka dengan netbean
+Buat database di localhost dengan nama db_karyawan, kemudian import db_karyawan.sql
+
 
 Gradient by :
 https://github.com/k33ptoo/KControls
 
-Silahkan dikembangkan lagi
-Mohon maaf apabila ada kekurangan
+Silahkan dikembangkan lagi,
+Mohon maaf apabila ada kekurangan,
 Semoga bermanfaat
 
 
