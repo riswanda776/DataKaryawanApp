@@ -9,7 +9,7 @@ Fitur :
 -Manajemen Karyawan
 -Manajemen User
 -Manajemen Gaji 
--Cetak Laporan Gaji (IReport)
+-Cetak Laporan Gaji (iReport)
 
 
 Aktifkan XAMPP
